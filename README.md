@@ -1,2 +1,2 @@
 # POWERbi__pro2
-Creation of a new Dataset visulaisations with Powerbi
+Creation of a new Dataset Visualization with Powerbi
