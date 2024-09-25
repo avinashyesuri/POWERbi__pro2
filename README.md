@@ -73,6 +73,15 @@ YearsSinceLastPromotion- The number of years since the employee's last promotion
 https://drive.google.com/file/d/1VsVlI_ExXzOdCbe9VqC5TpwZ9rdXJhvC/view?usp=sharing 
 
 
+
+
+
+
+
+
+
+
+
 # UK road accident dtaset
 
 As a beginner in data analytics, the objective of this assignment is to analyze the UK road accident dataset and gain insights into factors affecting road safety and accident severity. By examining the dataset, we aim to explore various aspects of road accidents and address the following questions. By addressing these questions and conducting exploratory analysis on the UK road accident dataset, we aim to gain insights into road safety and accident prevention.
@@ -145,6 +154,15 @@ Vehicle_Type- Represents the type of vehicle involved in the accident, such as c
 https://drive.google.com/file/d/1iMwcZDccTEhHXBENG1c-Zwl8EWtcPYIK/view?usp=sharing 
 
 
+
+
+
+
+
+
+
+
+
 # Covid  dtaset
 
 The impact of COVID-19 on students has been significant, with the pandemic disrupting education and daily life for millions of students around the world. As a data analytics beginner, the objective of this assignment is to analyze the student survey dataset on the impact of COVID-19 and gain insights into how students have coped with the pandemic and adapted to online learning.
@@ -206,6 +224,19 @@ Time utilized- Represents the overall time management or utilization of time by 
 ![Capture-po3](https://github.com/user-attachments/assets/644d4b0d-d538-4fe7-919e-e94aee168a0b)
 https://drive.google.com/file/d/19FXnecwzP49GYBrLqKDEXuTT5VzFTmLU/view?usp=sharing 
 
+
+
+
+
+
+
+
+
+## Drill Through Filtering:
+
+Drill through filtering is the process of navigating from one page (source) to another (destination) and carrying some filters along.
+The second report page (destination) then filters its results based on the selected value, allowing users to explore and analyze data.
+It allows you to explore data in more detail and gain insights that might not be possible at a high level.
 
 
 # DRILL THROUGH DATASET
