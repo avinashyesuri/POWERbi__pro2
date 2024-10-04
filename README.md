@@ -1,8 +1,11 @@
-# POWERbi__pro2
 
+# INNOVATE XHR DATASET  inclusion in visulaisation reports
 
-# INNOVATE XHR DATASET 
+![Capture -po1](https://github.com/user-attachments/assets/82d6350e-9906-4404-ae2c-34439036c45b)
+https://drive.google.com/file/d/1VsVlI_ExXzOdCbe9VqC5TpwZ9rdXJhvC/view?usp=sharing 
+### INNOVATE XHR  sales Dataset Link
 
+Problem statement:
 The objective of this assignment is to analyze the InnovateX HR dataset and extract meaningful insights to improve HR operations, enhance employee satisfaction, and optimize talent management strategies. By examining the HR data, we aim to address various aspects of the organization's human resources that can contribute to create a positive work environment, optimizing talent management strategies, and driving organizational success.
 
 ## INNOVATE XHR Dashboard  
@@ -69,8 +72,7 @@ YearsAtCompany- The number of years an employee has worked at the company.
 
 YearsSinceLastPromotion- The number of years since the employee's last promotion.
 
-![Capture -po1](https://github.com/user-attachments/assets/82d6350e-9906-4404-ae2c-34439036c45b)
-https://drive.google.com/file/d/1VsVlI_ExXzOdCbe9VqC5TpwZ9rdXJhvC/view?usp=sharing 
+
 
 
 
