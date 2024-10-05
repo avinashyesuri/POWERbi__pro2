@@ -2,7 +2,10 @@
 # INNOVATE XHR DATASET  inclusion in visulaisation reports
 
 ![Capture -po1](https://github.com/user-attachments/assets/82d6350e-9906-4404-ae2c-34439036c45b)
-https://drive.google.com/file/d/1VsVlI_ExXzOdCbe9VqC5TpwZ9rdXJhvC/view?usp=sharing 
+Link for proper study on visualization
+
+Capture-po2:  https://drive.google.com/file/d/1VsVlI_ExXzOdCbe9VqC5TpwZ9rdXJhvC/view?usp=sharing 
+
 ### INNOVATE XHR  sales Dataset Link
 
 Problem statement:
