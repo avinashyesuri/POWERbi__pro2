@@ -10,8 +10,6 @@ Capture-po2:  https://drive.google.com/file/d/1VsVlI_ExXzOdCbe9VqC5TpwZ9rdXJhvC/
 Problem statement:
 The objective of this assignment is to analyze the InnovateX HR dataset and extract meaningful insights to improve HR operations, enhance employee satisfaction, and optimize talent management strategies. By examining the HR data, we aim to address various aspects of the organization's human resources that can contribute to create a positive work environment, optimizing talent management strategies, and driving organizational success.
 
-
-
 ## INNOVATE XHR Dashboard  
 
 Use Advanced Power BI Visualisations and Filters.
