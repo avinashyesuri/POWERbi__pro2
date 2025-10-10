@@ -90,5 +90,3 @@ THIS IS MY POWER BI PROJECT 2, related to  INNOVATE XHR DATASET  report for oper
 
 
 
-
-
